@@ -13,7 +13,7 @@ PGP public key: [ [Keybase](https://keybase.io/lmaly/pgp_keys.asc) ] |
 
 [ <img src="https://www.buymeacoffee.com/assets/img/bmc-meta-new/new/favicon-16x16.png" width="16" height="16"> <a href="https://www.buymeacoffee.com/luckylittle">Buy me a coffee</a> ]
 
-_©2019-2020 lucian@redhat.com_
+_©2019-2021 lucian[at]redhat[dot]com or devops[at]redhat[dot]com_
 
 <!--
 **luckylittle/luckylittle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
