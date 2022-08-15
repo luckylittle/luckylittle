@@ -17,7 +17,7 @@ PGP public key: [ [Keybase](https://keybase.io/lmaly/pgp_keys.asc) ] |
 [![luckylittle's GitHub stats](https://github-readme-stats.vercel.app/api?username=luckylittle)](https://github.com/anuraghazra/github-readme-stats)
 
 
-_©2019-2022 lucian[at]redhat[dot]com or devops[at]redhat[dot]com_
+_©2007-2022 lucian[at]redhat[dot]com or devops[at]redhat[dot]com_
 
 <!--
 **luckylittle/luckylittle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
