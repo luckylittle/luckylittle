@@ -14,7 +14,7 @@ PGP public key: [ [Keybase](https://keybase.io/lmaly/pgp_keys.asc) ] |
 [ <img src="https://www.buymeacoffee.com/assets/img/bmc-meta-new/new/favicon-16x16.png" width="16" height="16"> <a href="https://www.buymeacoffee.com/luckylittle">Buy me a coffee</a> ] |
 [ <img src="https://info.credly.com/hubfs/Credly_orange-favicon-2.png" width="16" height="16"> <a href=https://www.credly.com/users/lucian-maly/badges>Credly</a> ]
 
-[![luckylittle's GitHub stats](https://github-readme-stats.vercel.app/api?username=luckylittle&count_private=true&include_all_commits=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![luckylittle's GitHub stats](http://github-readme-streak-stats.herokuapp.com/?user=luckylittle&theme=dark&hide_border=false)]
 
 
 _©2007-2022 lucian[at]redhat[dot]com or devops[at]redhat[dot]com_
