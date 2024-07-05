@@ -16,7 +16,7 @@ PGP public key [0x6D90FD00]: [ [OpenPGP](https://keys.openpgp.org/search?q=lucia
 ![luckylittle's GitHub stats](http://github-readme-streak-stats.herokuapp.com/?user=luckylittle&theme=dark&hide_border=false)
 
 
-_©2007-2024 lucian[at]redhat[dot]com or devops[at]redhat[dot]com_
+_©2007-2024 lucian [at] redhat [dot] com or lucian [at] linux [dot] com or devops [at] redhat [dot] com_
 
 <!--
 **luckylittle/luckylittle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
