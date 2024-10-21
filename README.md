@@ -7,7 +7,7 @@ I work @ [Red Hat](https://redhat.com).
 [ <img src="https://github.githubassets.com/favicon.ico" width="16" height="16"> <a href="https://github.com/luckylittle">Github</a> / <a href="https://gist.github.com/luckylittle">Gist</a> ] |
 [ <img src="https://rover.redhat.com/people/favicon.ico" width="16" height="16"> <a href="https://rover.redhat.com/people/profile/lmaly">Rover (internal)</a> ]
 
-PGP public key [0x6D90FD00]: [ [OpenPGP](https://keys.openpgp.org/search?q=lucian@redhat.com) ] | [ [Keybase](https://keybase.io/lmaly/pgp_keys.asc) ] | [ [Fedora (mirror)](https://keys.fedoraproject.org/pks/lookup?search=0x6D90FD00) ] | [ [Red Hat (internal)](http://file.syd.redhat.com/~lmaly/) ]
+PGP public key [0x6D90FD00]: [ [OpenPGP](https://keys.openpgp.org/search?q=lucian@redhat.com) ] | [ [Keybase](https://keybase.io/lmaly/pgp_keys.asc) ] | [ [Fedora (mirror)](https://keys.fedoraproject.org/pks/lookup?search=0x6D90FD00) ] | [ [Red Hat (internal)](http://file.syd.redhat.com/~lmaly/) ] | [ [GitLab (internal)](https://gitlab.consulting.redhat.com/lmaly.gpg) ]
 
 [ <img src="https://www.buymeacoffee.com/assets/img/bmc-meta-new/new/favicon-16x16.png" width="16" height="16"> <a href="https://www.buymeacoffee.com/luckylittle">Buy me a coffee</a> ] |
 [ <img src="https://info.credly.com/hubfs/Credly_orange-favicon-2.png" width="16" height="16"> <a href=https://www.credly.com/users/lucian-maly/badges>Credly</a> ] |
